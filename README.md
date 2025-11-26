@@ -1,5 +1,8 @@
 # Leisungsnachweis-2-Sina-Eronita-Naomi
 Leistungsnachweis für das Modul Informatik 
+Sina Bösiger  boesisin@students.zhaw.ch
+Naomi Meisser meissnao@students.zhaw.ch
+Eronita Sahiti  sahitero@students.zhaw.ch
 
 # Grundgerüst Leistungsausweis
 Dieses Notebook soll euch als Grundgerüst für euren Leistungsnachweis dienen. Es soll euch eine Idee/ Hilfestellung bieten, wie man einen neuen Datensatz, basierend auf einer Fragestellung, strukturiert analysieren und interpretieren kann. Wie besagt, dient das Notebook als Hilfestellung, ist jedoch keinenfalls vollständig ausgeschöpft. In diesem Sinne dürft ihr auch gerne Sachen miteinbeziehen, welche hier nicht genannt werden. 
