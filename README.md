@@ -1,4 +1,4 @@
-### Globale Unterernährung: Entwicklungen, regionale Unterschiede und wirtschaftliche Einflussfaktoren 
+### Die weltweite Unterernährung: Entwicklungen, regionale Unterschiede und ihre wirtschaftlichen Ursachen
 
 ## Projektgruppe
 -Sina Bösiger  boesisin@students.zhaw.ch
