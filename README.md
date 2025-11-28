@@ -2,8 +2,11 @@
 
 ## Projektgruppe
 -Sina Bösiger  boesisin@students.zhaw.ch
+
 -Naomi Meisser meissnao@students.zhaw.ch
+
 -Eronita Sahiti  sahitero@students.zhaw.ch
+
 
 ## Struktur
 1. Fragestellungen und Datenbeschaffung
