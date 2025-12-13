@@ -19,11 +19,11 @@
 ## 1. Fragestellungen und Datenbeschaffung
 
 ### 1.1 Fragestellung:
-1. Wie hat sich der Anteil unterernährter Menschen weltweit zwischen 2000 und 2023 verändert?
-2. Welche Weltregionen sind im Jahr 2023 am stärksten von Unterernährung betroffen?
-3. Welche Weltregionen sind im Jahr 2023 am niedrigsten von Unterernährung betroffen?
+1. Wie hat sich der weltweite Anteil unterernährter Menschen im Laufe der zeit entwickelt?
+2. Welche 6 Länder sind im Jahr 2022 am stärksten von Unterernährung betroffen?
+3. Welche 6 Länder sind im Jahr 2022 am niedrigsten von Unterernährung betroffen?
 4. Gibt es einen Zusammenhang zwischen Unterernährung und wirtschaftlichen Faktoren?
-5. Gibt es Länder, in denen die Unterernährungsrate besonders stark gesunken oder gestiegen ist?
+5. Gibt es Länder, in denen die Unterernährungsrate besonders stark gesunken oder gestiegen sind?
 
 ## Unsere Datenquellen:
 -  https://ourworldindata.org/hunger-and-undernourishment
