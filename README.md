@@ -41,9 +41,13 @@
 -  https://www.aktiongegendenhunger.de/afrika/simbabwe
 -  https://madagasikara.fr/de/warum-ist-die-bevolkerung-madagaskars-weiterhin-von-unterernahrung-bedroht/
 -  https://de.wfp.org/krisen/jemen
-## Datenquellen für die Fragestellunt 4:
+## Datenquellen für die Fragestellung 4:
 -  https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.00453/full
 -  https://www.wfp.org/news/global-report-food-crises-number-people-facing-acute-food-insecurity-rose-258-million-58
 -  https://openknowledge.fao.org/server/api/core/bitstreams/65e8ea3a-dad1-4b9e-9eec-bde51e2f18a3/content
 -  https://www.globalhungerindex.org/pdf/en/2022.pdf
 -  https://www.wfp.org/global-hunger-crisis
+## Datenquellen für die Fragestellung 5:
+-  https://naciscdn.org/naturalearth/110m/cultural/ne_110m_admin_0_countries.zip
+-  https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.00453/full
+-  https://ourworldindata.org/hunger-and-undernourishment
