@@ -25,7 +25,12 @@
 4. Gibt es einen Zusammenhang zwischen Unterernährung und wirtschaftlichen Faktoren?
 5. Gibt es Länder, in denen die Unterernährungsrate besonders stark gesunken oder gestiegen sind?
 
-## Unsere Datenquellen:
+## Unsere Datenquelle:
 -  https://ourworldindata.org/hunger-and-undernourishment
+## Datenquellen für die Fragestellung 1:
+-  https://de.wfp.org/pressemitteilungen/un-bericht-die-zahl-der-weltweit-von-hunger-betroffenen-menschen-ist-im-jahr
+-  https://www.srf.ch/news/international/uno-welternaehrungsbericht-beim-kampf-gegen-hunger-ist-die-welt-nicht-auf-kurs
+-  https://www.srf.ch/news/wirtschaft/welthunger-index-2025-eine-welt-ohne-hunger-rueckt-in-weite-ferne
+-  https://www.deutschlandfunk.de/welthunger-index-un-massnahmen-krieg-klimakrise-corona-100.html
 
     
