@@ -44,6 +44,9 @@
 -  https://madagasikara.fr/de/warum-ist-die-bevolkerung-madagaskars-weiterhin-von-unterernahrung-bedroht/
 -  https://de.wfp.org/krisen/jemen
 
+## Datenquellen für die Fragestellung 3:
+- Für diese Fragestellung war keine zusätzliche Quelle notwendig, da die bereits verwendeten Quellen aus den anderen Fragestellungen ausreichten, um eine fundierte Schlussfolgerung zu ziehen.
+
 ## Datenquellen für die Fragestellung 4:
 -  https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.00453/full
 -  https://www.wfp.org/news/global-report-food-crises-number-people-facing-acute-food-insecurity-rose-258-million-58
