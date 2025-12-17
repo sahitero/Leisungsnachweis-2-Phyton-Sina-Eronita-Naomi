@@ -19,11 +19,11 @@
 ## 1. Fragestellungen und Datenbeschaffung
 
 ### 1.1 Fragestellung:
-1. Wie hat sich der weltweite Anteil unterernährter Menschen im Laufe der zeit entwickelt?
+1. Wie hat sich der weltweite Anteil unterernährter Menschen im Laufe der Zeit entwickelt?
 2. Welche 6 Länder sind im Jahr 2022 am stärksten von Unterernährung betroffen?
 3. Welche 6 Länder sind im Jahr 2022 am niedrigsten von Unterernährung betroffen?
 4. Gibt es einen Zusammenhang zwischen Unterernährung und wirtschaftlichen Faktoren?
-5. Gibt es Länder, in denen die Unterernährungsrate besonders stark gesunken oder gestiegen sind?
+5. Gibt es Länder, in denen die Unterernährungsrate besonders stark gesunken oder gestiegen ist?
 
 ## Unsere Datenquelle:
 -  https://ourworldindata.org/hunger-and-undernourishment
