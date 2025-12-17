@@ -60,3 +60,5 @@
 -  https://naciscdn.org/naturalearth/110m/cultural/ne_110m_admin_0_countries.zip
 -  https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2020.00453/full
 -  https://ourworldindata.org/hunger-and-undernourishment
+
+Hinweis: Zur Unterstützung der Rechtschreibung und allgemeiner Überprüfung wurde KI verwendet.
