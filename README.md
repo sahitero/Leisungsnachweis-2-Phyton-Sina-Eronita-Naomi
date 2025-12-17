@@ -10,10 +10,12 @@
 
 ## Struktur
 1. Fragestellungen und Datenbeschaffung
-2. Daten laden
-3. Daten vorbereiten
-4. Statistik der Rohdaten 
-5. Analyse der Daten
+2. Unsere Rohdaten
+3. Pivottabelle
+4. Daten vorbereiten
+5. Statistik der Rohdaten
+6. Zusammenhänge zwischen zwei Variabeln (Streuungsdiagramm, Korrelationsmatrix)
+7. Untersuchung der Fragestellung
 
 ---
 ## 1. Fragestellungen und Datenbeschaffung
